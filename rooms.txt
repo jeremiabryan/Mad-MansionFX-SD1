@@ -1,0 +1,30 @@
+1;1;FALSE;A hero starts his adventure!;5;3;0;2
+2;1;FALSE;The smell of adventure is in the air.;4;1;0;0
+3;1;FALSE;It's dark. Like really dark!;6;0;0;1
+4;1;FALSE;This room looks filthy.;7;5;2;0
+5;1;FALSE;Do you hear that?;8;6;1;4
+6;1;FALSE;Tired yet?;9;0;3;5
+7;1;FALSE;You feel a chill;0;8;4;0
+8;1;FALSE;It’s...it’s...another room..-_-.;10;9;5;7
+9;1;FALSE;Your getting closer to a dark presence.;0;0;6;8
+10;1;FALSE;A staircase outta here!!…...wait what’s that thing?!;11;0;8;0
+11;2;FALSE;A hero continues their adventure!;14;13;10;12
+12;2;FALSE;The smell of adventure is still in the air...;14;11;0;0
+13;2;FALSE;It's even darker now!;15;0;0;11
+14;2;FALSE;This room looks actually kinda nice.;16;15;11;12
+15;2;FALSE;Do you smell that?;17;0;13;14
+16;2;FALSE;You're doing great..psych!;19;17;14;0
+17;2;FALSE;You feel a wave of heat!;18;0;15;16
+18;2;FALSE;It’s...it’s...another room. .-_-. again!;0;0;17;19
+19;2;FALSE;You're getting closer to a burning presence.;0;18;16;20
+20;2;FALSE;A staircase outta here!!......wait what is that?!;0;19;0;21
+21;3;FALSE;A hero needs to end this long adventure!;23;20;0;0
+22;3;FALSE;The sound of adventure is in the air.;25;23;0;0
+23;3;FALSE;It’s so dark in this room, I think we dis-covered a new color darker than black!;26;24;21;22
+24;3;FALSE;This room looks pretty clean.;27;0;0;23
+25;3;FALSE;Do you smell that?;28;26;22;0
+26;3;FALSE;Tired yet..because you should just quit.;28;27;23;25
+27;3;FALSE;You feel a gigantic shift in the temperature.;28;0;24;26
+28;3;FALSE;It’s...it’s...another room .-_-. yay!;29;0;26;0
+29;3;FALSE;You’re getting closer to what looks like an exit ahead.;30;0;28;0
+30;3;FALSE;An exit outta here!!…...wait THAT THING IS HUGEE?!;0;0;29;0

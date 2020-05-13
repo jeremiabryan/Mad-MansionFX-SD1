@@ -1,0 +1,7 @@
+01;01;What is 1 + 1?;2;11;1;N/A;Other...;2;
+02;01;Where do you study?;GGC;
+03;02;What class is this?;Software Development;
+04;02;Solve the following equation: 2x(9)=(9x)+9;1;
+05;03;What goes up but never comes down?;Your age;
+06;03;What is (1+6+123+90*50)*0;0;
+07;03;What month of the year has at least 28 days?;a.	January;b.	February;c.	December;d.	All of them;e.	Other… Type;all;

@@ -1,0 +1,10 @@
+01;Non magical Sword;A rusty sword;Damage;3;3;0;0
+02;Dagger;A silver double-edge blade;Damage;4;4;0;0
+03;Bow and Arrows;Attack from a distance! Not unlimited arrows BTW!;Damage;6;6;0;0
+04;Low Magical Sword;Not a rusty sword;Damage;8;8;0;0
+05;Moderate Magical Sword;This used to belong to some magical monster!;Damage;12;12;0;0
+06;High Magical Sword;Only the great ones have used this sword, are you ready?;Damage;15;15;0;0
+07;Axe;This thing is heavy!;Damage;15;15;0;0
+08;Shield;This thing reduces the damage taken!;Armor;3;0;3;0
+09;Body Armor;This thing reduces the damage taken!;Armor;3;0;3;0
+10;Health Potion;Heals player by 30 HP;Healing;30;0;0;30
